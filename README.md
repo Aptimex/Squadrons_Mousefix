@@ -8,3 +8,5 @@ By default the `F8` key toggles the script on an off. See https://www.autohotkey
 `deadzone` defines the pixel radius around around the neutral position where the script won't do anything.
 
 Each time the script starts, the current mouse position is defined as the new neutral (target) location.
+
+![Visual description](./squadrons_script.jpg)
